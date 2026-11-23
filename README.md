@@ -8,7 +8,7 @@ quick prototypes alongside.
 
 ## Three projects, one progression
 
-### [WFS-DIY](https://github.com/pob31/WFS-DIY): porting (November 2025 to October 2026)
+### [WFS-DIY](https://github.com/pob31/WFS-DIY): porting (since November 2025)
 
 A Wave Field Synthesis processor for sound reinforcement, ported to C++ and JUCE from
 my Max/MSP version ([wfs-diy.net](https://wfs-diy.net)). This was my first project
@@ -19,6 +19,7 @@ server and nine interface languages. It premiered on 29 September 2026 with
 Arthur Nauzyciel's [*Scènes de la vie conjugale*](https://www.t-n-b.fr/scenes-de-la-vie-conjugale) at the Théâtre National de Bretagne
 in Rennes. It does everything I wanted it to do, and it is close to its final 1.0
 release.
+- [WFS-DIY-Android-Remote](https://github.com/pob31/WFS-DIY-Android-Remote): touch control for WFS-DIY
 
 *1,391 commits · ~208,000 lines of C++ · v1.0 beta 64, nearing release*
 
@@ -33,12 +34,12 @@ Go.dot. I wrote a 650-line JUCE prototype by hand in 2021. In 2026 I rewrote it 
 scratch in Rust with Claude, in a few one-week rounds, with a plan, phases and audits. It is due to premiere on 15 December 2026 with
 [*Coup Fatal*](https://www.comedie.ch/fr/coup-fatal-2026) at the Comédie de Genève.
 
-*445 commits · ~94,000 lines of Rust, plus Kotlin and Swift monitor apps · v0.3.1*
+*445 commits · ~94,000 lines of Rust, plus Kotlin and Swift monitor apps · v0.3.2*
 
 **What it taught me:** how to set up a project from nothing so that the model can
 carry it.
 
-### [Go.dot](https://github.com/pob31/go.dot): show control (August to October 2026)
+### [Go.dot](https://github.com/pob31/go.dot): show control (since August 2026)
 
 A show controller for theatre, dance and live music. It runs a cue list of sound and
 video, holds live bindings during a show, and conducts WFS-DIY and S21_HiJack. The
@@ -73,10 +74,10 @@ the operator's own script.
 
 ## Also here
 
+- [Likyū](https:;;github.com/pob31/likyu): Dynamic EQ and Transient Designer with sweeping frequencies Plugin (VST3 AU LV2)
 - [spatcore](https://github.com/pob31/spatcore): the common base of my spatial sound processors
 - [XOA](https://github.com/pob31/XOA): a tenth-order Ambisonics processor (under construction)
 - [Tight-WFS](https://github.com/pob31/Tight-WFS): WFS for dense loudspeaker arrays
-- [WFS-DIY-Android-Remote](https://github.com/pob31/WFS-DIY-Android-Remote): touch control for WFS-DIY
 - [headtracker_v1](https://github.com/pob31/headtracker_v1): a head tracker for binaural listening
 - [Le_Pixophone](https://github.com/pob31/Le_Pixophone): a video performance from still pictures and a live camera, ported from Pure Data
 
