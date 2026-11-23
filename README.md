@@ -74,7 +74,7 @@ the operator's own script.
 
 ## Also here
 
-- [Likyū](https:;;github.com/pob31/likyu): Dynamic EQ and Transient Designer with sweeping frequencies Plugin (VST3 AU LV2)
+- [Likyū](https://github.com/pob31/likyu): Dynamic EQ and Transient Designer with sweeping frequencies Plugin (VST3 AU LV2)
 - [spatcore](https://github.com/pob31/spatcore): the common base of my spatial sound processors
 - [XOA](https://github.com/pob31/XOA): a tenth-order Ambisonics processor (under construction)
 - [Tight-WFS](https://github.com/pob31/Tight-WFS): WFS for dense loudspeaker arrays
